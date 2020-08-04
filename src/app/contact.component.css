@@ -1,0 +1,53 @@
+#mainDiv
+{
+    margin-top:50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+}
+
+h1
+{
+    text-align: center;
+}
+h3
+{
+    display: inline;
+}
+
+#addContacts
+{
+    float: right;
+    color: white;
+    border: none;
+}
+
+#searchBar
+{
+    width: 550px;
+}
+p
+{
+    background-color: white;
+    border-color: black;
+    height: 50px;
+    margin-bottom: 1px;
+}
+
+#contactinfo
+{
+   margin-left: 100px;   
+}
+
+button
+{
+    margin: 10px;
+}
+
+#delButton
+{
+    float: right;
+    color: red;
+    background-color: white;
+    border: none;
+}
